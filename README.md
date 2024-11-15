@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/chilanasandeep)
-- 🌐 [Portfolio](#) *[(Add your portfolio link here)](https://aegisbit.com/portfolio/)*
+- 🌐 [Portfolio](#) *[https://aegisbit.com/portfolio]*
 - 📧 **Email**: Sandeepchilana467@gmail.com
 
 ---
