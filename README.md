@@ -16,12 +16,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 
 ## 🖥️ Featured Projects
 ### 1. **Comedy Club Website(#)**
-   - 📖 Description: A short, impactful summary of the project.
+   - 📖 Description: Fully integrated event promotion and online ticket sales platform..
    - 🔧 Tech Stack: C#, .NET Core, Asp.net, SQL Server,HTML5,CSS3,Bootstrap.
-   - 🌐 Live URL: https://loonybincomedy.com
+   - 🌐 Live URL: https://aegisbit.com/website
 
 ### 2. **Comedy Club Management Dashboard](#)**
-   - 📖 Description: A short, impactful summary of the project.
+   - 📖 Description: Comedy club management and reporting platform.
    - 🔧 Tech Stack: ASP.NET, DevExpress, MSSQL, Bootstrap, Aspmembership, HTML5, CSS3.
    - 🌐 Live Project Details: https://aegisbit.com/dashboard/
 
